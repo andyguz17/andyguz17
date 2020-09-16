@@ -33,5 +33,5 @@
 <br />
 
 [instagram]: https://instagram.com/andyguz17
-[linkedin]: linkedin.com/in/andres-guzman-a63757139
-[facebook]: https://www.facebook.com/andres.guzman.37853734
+[linkedin]: https://linkedin.com/in/andres-guzman-a63757139
+[facebook]: https://facebook.com/andres.guzman.37853734
