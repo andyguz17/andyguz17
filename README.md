@@ -21,19 +21,13 @@
 
 ### Technologies:
 
-[<img align="left" alt="HTML5" width="38px" src="https://img.icons8.com/color/480/000000/html-5.png" />]
-[<img align="left" alt="CSS3" width="38px" src="https://img.icons8.com/color/480/000000/css3.png" />]
-[<img align="left" alt="JavaScript" width="38px" src="https://img.icons8.com/color/480/000000/javascript-logo-1.png" />]
-
-<br />
-
-[<img align="left" alt="React" width="38px" src="https://img.icons8.com/color/480/000000/react-native.png" />]
-[<img align="left" alt="Redux" width="38px" src="https://img.icons8.com/color/480/000000/redux.png" />]
-
-<br />
-
-[<img align="left" alt="Python" width="38px" src="https://img.icons8.com/color/480/000000/python.png" />]
-[<img align="left" alt="Cpp" width="38px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />]
+<img align="left" alt="HTML5" width="38px" src="https://img.icons8.com/color/480/000000/html-5.png" />
+<img align="left" alt="CSS3" width="38px" src="https://img.icons8.com/color/480/000000/css3.png" />
+<img align="left" alt="JavaScript" width="38px" src="https://img.icons8.com/color/480/000000/javascript-logo-1.png" />
+<img align="left" alt="React" width="38px" src="https://img.icons8.com/color/480/000000/react-native.png" />
+<img align="left" alt="Redux" width="38px" src="https://img.icons8.com/color/480/000000/redux.png" />
+<img align="left" alt="Python" width="38px" src="https://img.icons8.com/color/480/000000/python.png" />
+<img align="left" alt="Cpp" width="38px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 
 <br />
 <br />
