@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://now-playing.andyguz17.vercel.app/spotify)](https://open.spotify.com/user/andyguz17?si=af_r5v94SnOIWv8Rh3UNMg)
+[![Spotify](now-playing-dusky.vercel.app/spotify)](https://open.spotify.com/user/andyguz17?si=af_r5v94SnOIWv8Rh3UNMg)
 
 ### Connect with me:
 
