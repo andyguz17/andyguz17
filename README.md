@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://vercel.com/andyguz17/now-playing/spotify" alt="Andres Spotify Playing" width="350" />](https://open.spotify.com/user/andyguz17?si=7ljch0v4TXO42_uiqdSRTg)
+[![Spotify](https://now-playing.andyguz17.vercel.app/spotify)](https://open.spotify.com/user/andyguz17?si=af_r5v94SnOIWv8Rh3UNMg)
 
 ### Connect with me:
 
