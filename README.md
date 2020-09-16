@@ -13,18 +13,23 @@
 
 ### Connect with me:
 
-[<img align="left" alt="andyguz17 | LinkedIn" width="34px" src="https://img.icons8.com/bubbles/480/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="andyguz17 | Instagram" width="34px" src="https://img.icons8.com/bubbles/480/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="andyguz17 | Facebook" width="34px" src="https://img.icons8.com/bubbles/48/000000/facebook.png" />][facebook]
+[<img align="left" alt="andyguz17 | LinkedIn" width="45px" src="https://img.icons8.com/bubbles/480/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="andyguz17 | Instagram" width="45px" src="https://img.icons8.com/bubbles/480/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="andyguz17 | Facebook" width="45px" src="https://img.icons8.com/bubbles/48/000000/facebook.png" />][facebook]
 
 <br />
 
-### Languages and Tools:
+### Technologies:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+
+<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 
 <br />
 <br />
