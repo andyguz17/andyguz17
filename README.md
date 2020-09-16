@@ -13,8 +13,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="andyguz17 | LinkedIn" width="34px" src="https://img.icons8.com/doodle/480/000000/linkedin--v2.png" />][linkedin]
-[<img align="left" alt="andyguz17 | Instagram" width="42px" src="https://img.icons8.com/plasticine/480/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="andyguz17 | LinkedIn" width="34px" src="https://img.icons8.com/bubbles/480/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="andyguz17 | Instagram" width="34px" src="https://img.icons8.com/bubbles/480/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="andyguz17 | Facebook" width="34px" src="https://img.icons8.com/bubbles/48/000000/facebook.png" />][facebook]
 
 <br />
 
@@ -40,10 +41,6 @@
 <br />
 <br />
 
-[website]: https://codeSTACKr.com
 [instagram]: https://instagram.com/andyguz17
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[facebook]: https://www.facebook.com/andres.guzman.37853734
