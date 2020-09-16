@@ -14,7 +14,7 @@
 ### Connect with me:
 
 [<img align="left" alt="andyguz17 | LinkedIn" width="34px" src="https://img.icons8.com/doodle/480/000000/linkedin--v2.png" />][linkedin]
-[<img align="left" alt="andyguz17 | Instagram" width="42px" src="https://img.icons8.com/cotton/480/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="andyguz17 | Instagram" width="42px" src="https://img.icons8.com/plasticine/480/000000/instagram-new.png" />][instagram]
 
 <br />
 
