@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[https://now-playing-eta.vercel.app/api/spotify](https://open.spotify.com/user/andyguz17?si=af_r5v94SnOIWv8Rh3UNMg)
+[![Spotify](https://now-playing-eta.vercel.app/api/spotify)](https://open.spotify.com/user/andyguz17?si=af_r5v94SnOIWv8Rh3UNMg)
 
 ### Connect with me:
 
