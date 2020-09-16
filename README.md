@@ -21,15 +21,15 @@
 
 ### Technologies:
 
-<img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-
-<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="HTML5" width="45px" src="https://img.icons8.com/color/480/000000/html-5.png" />
+<img align="left" alt="CSS3" width="45px" src="https://img.icons8.com/color/480/000000/css3.png" />
+<img align="left" alt="JavaScript" width="45px" src="https://img.icons8.com/color/480/000000/javascript-logo-1.png" />
+<br />
+<img align="left" alt="React" width="45px" src="https://img.icons8.com/color/480/000000/react-native.png" />
+<img align="left" alt="Redux" width="45px" src="https://img.icons8.com/color/480/000000/redux.png" />
+<br />
+<img align="left" alt="Python" width="45px" src="https://img.icons8.com/color/480/000000/python.png" />
+<img align="left" alt="Cpp" width="45px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 
 <br />
 <br />
