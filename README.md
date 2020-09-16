@@ -13,10 +13,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="andyguz17 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="andyguz17 | Twitter" width="22px" src="https://img.icons8.com/cotton/240/000000/instagram-new.png" />][twitter]
-[<img align="left" alt="andyguz17 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="andyguz17 | Instagram" width="22px" src="https://img.icons8.com/cotton/240/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="andyguz17 | LinkedIn" width="34px" src="https://img.icons8.com/doodle/480/000000/linkedin--v2.png" />][linkedin]
+[<img align="left" alt="andyguz17 | Instagram" width="34px" src="https://img.icons8.com/cotton/480/000000/instagram-new.png" />][instagram]
 
 <br />
 
