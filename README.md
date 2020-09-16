@@ -27,7 +27,7 @@
 <img align="left" alt="React" width="38px" src="https://img.icons8.com/color/480/000000/react-native.png" />
 <img align="left" alt="Redux" width="38px" src="https://img.icons8.com/color/480/000000/redux.png" />
 <img align="left" alt="Python" width="38px" src="https://img.icons8.com/color/480/000000/python.png" />
-<img align="left" alt="Cpp" width="38px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+<img align="left" alt="Cpp" width="38px" src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" />
 
 <br />
 <br />
