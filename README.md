@@ -2,8 +2,9 @@
 
 ## I'm a Developer and Researcher!
 
-- ⚙️ I’m currently working on a Personal web page!!
-- 📚 I’m currently learning Node and React Js
+- ⚙️ Working on a Personal web page!!
+- 📚 Learning Node and React Js
+- 🧬 Studying Neural Networks and patterns recognition. 
 - 🌌 2021 Goals: Improve my coding and gaming skills!
 - 🗯️ Random fact: I love music and sports
 
@@ -18,6 +19,7 @@
 [<img align="left" alt="andyguz17 | Facebook" width="45px" src="https://img.icons8.com/bubbles/48/000000/facebook.png" />][facebook]
 
 <br />
+<br />
 
 ### Technologies:
 
@@ -28,7 +30,10 @@
 <img align="left" alt="Redux" width="38px" src="https://img.icons8.com/color/480/000000/redux.png" />
 <img align="left" alt="Python" width="38px" src="https://img.icons8.com/color/480/000000/python.png" />
 <img align="left" alt="Cpp" width="38px" src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" />
-
+<img align="left" alt="Csharp" width="38px" src="https://img.icons8.com/color/480/000000/c-sharp-logo.png" />
+<img align="left" alt="Typescript" width="38px" src="https://img.icons8.com/color/480/000000/typescript.png" />
+<img align="left" alt="MongoDb" width="38px" src="https://img.icons8.com/color/480/000000/mongodb.png" />
+<img align="left" alt="SqlServer" width="38px" src="https://img.icons8.com/color/480/000000/microsoft-sql-server.png" />
 <br />
 <br />
 
