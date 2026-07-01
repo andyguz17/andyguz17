@@ -85,18 +85,6 @@ I like owning the whole path — from a raw prompt, to an orchestrated multi-ste
 </tr>
 </table>
 
-<!-- ============ EXPERIENCE ============ -->
-
-### 💼 Where I've made an impact
-
-**🏥 Helios Software — Senior Software Engineer** · *Remote · Enterprise healthcare & AI platforms*
-> Architected a **Prompt Studio** for testing and managing prompts in healthcare AI workflows. Built AI backends with **.NET + Semantic Kernel** (feature chaining, prompt orchestration, structured responses, MCP integrations) and owned **AWS + Terraform** infra (ECS, DynamoDB, VPC, load balancing, OpenTelemetry). CQRS + clean architecture throughout.
-
-**🚀 Jalasoft — Software / AI Engineer** · *Enterprise product modernization for a US client*
-> Evolved a traditional enterprise platform into **AI-enabled capabilities**: LLM orchestration, MCP tool servers, **Redis-based chat memory**, structured outputs and agent integrations. Owned technical decisions and coordinated a small engineering team, working extensively with **AWS + Terraform** and building **JSON-driven dynamic UIs**.
-
-**🧩 Earlier** · Altitude Solutions (desktop/web apps, Python) · roots in computer vision & mechatronics.
-
 <!-- ============ STATS ============ -->
 
 ### 📊 By the numbers
@@ -116,16 +104,6 @@ I like owning the whole path — from a raw prompt, to an orchestrated multi-ste
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 </div>
-
-<!-- ============ ROOTS ============ -->
-
-### 🌱 Where it started
-
-Before the LLMs, there was **computer vision**. A few projects that shaped how I think:
-
-- 👁️ [**ComputerVision_Basics**](https://github.com/andyguz17/ComputerVision_Basics) — fundamentals of CV in Python
-- 🚗 [**Car_counter**](https://github.com/andyguz17/Car_counter) — vehicle detection & counting
-- 😀 [**emotions**](https://github.com/andyguz17/emotions) — emotion recognition with neural nets
 
 <!-- ============ EDU / LANG ============ -->
 
