@@ -103,9 +103,17 @@ I like owning the whole path — from a raw prompt, to an orchestrated multi-ste
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andyguz17&theme=tokyonight" alt="stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andyguz17&theme=tokyonight" alt="most used languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andyguz17&theme=tokyonight&utcOffset=-4" alt="productive time"/>
+<img src="https://img.shields.io/github/followers/andyguz17?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=8B5CF6" alt="followers"/>
+<img src="https://img.shields.io/badge/On_GitHub_since-2017-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="since 2017"/>
+<img src="https://img.shields.io/badge/Focus-AI_Engineering-EC4899?style=for-the-badge&logo=probot&logoColor=white" alt="focus"/>
+
+<br/><br/>
+
+**Most used:**
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23_/_.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 </div>
 
