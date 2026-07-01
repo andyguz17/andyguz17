@@ -1,55 +1,137 @@
-### Hi there, I'm Andres 👋
+<!-- ============ HERO ============ -->
+<div align="center">
 
-## I'm a Developer and Researcher!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=210&section=header&text=Andres%20Guzman&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Senior%20AI%20%2F%20Full-Stack%20Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Andres Guzman banner" />
 
-- <img  align="left" alt="Components" width="18px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-component-game-development-soft-fill-soft-fill-juicy-fish.png"/> &nbsp; Working on Lily, a UI React based components library.
-- <img align="left" alt="Security" width="18px" src="https://img.icons8.com/fluency/48/000000/security-block.png"/> &nbsp; learning about cyber security
-- <img align="left" alt="neuralNets" width="18px" src="https://img.icons8.com/dusk/64/000000/artificial-intelligence.png"/> &nbsp; Studying Neural Networks and patterns recognition.
-- <img align="left" alt="goals" width="18px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-goals-business-strategy-soft-fill-soft-fill-juicy-fish.png"/> &nbsp; 2022 Goals: Get my master's degree in Data Science 
-- <img align="left" alt="goals" width="18px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> &nbsp; Learning more about aws as well
+<a href="https://github.com/andyguz17">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=I+build+AI-powered+platforms;Semantic+Kernel+%E2%80%A2+MCP+%E2%80%A2+.NET+%E2%80%A2+AWS;From+prompts+to+production;Agents%2C+orchestration+%26+clean+architecture" alt="Typing SVG" />
+</a>
 
-### Spotify Playing 🎧
+<br/>
 
-[![Spotify](https://now-playing-eta.vercel.app/api/spotify)](https://open.spotify.com/user/andyguz17?si=af_r5v94SnOIWv8Rh3UNMg)
+<a href="https://linkedin.com/in/andres-guzman-a63757139"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:andres.guzman.q21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://instagram.com/andyguz17"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<img src="https://komarev.com/ghpvc/?username=andyguz17&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="views"/>
 
-### Connect with me:
+</div>
 
-[<img align="left" alt="andyguz17 | LinkedIn" width="45px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="andyguz17 | Instagram" width="45px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-<br />
-<br />
+<!-- ============ INTRO ============ -->
 
-### Technologies:
+### 👋 Welcome
 
-<img align="left" alt="HTML5" width="38px" src="https://img.icons8.com/color/480/000000/html-5.png" /> &nbsp;
-<img align="left" alt="CSS3" width="38px" src="https://img.icons8.com/color/480/000000/css3.png" />
+I'm **Andres** — a senior software engineer from 🇧🇴 Santa Cruz, Bolivia, focused on turning **large language models into real, production-grade products**. I started in mechatronics and computer vision, and today I design and build **AI platforms**: prompt-execution pipelines, agent workflows, and the cloud-native backends and enterprise frontends that make them usable.
 
-<br />
+I like owning the whole path — from a raw prompt, to an orchestrated multi-step agent, to a clean API, to the UI a real team ships every day.
 
-<img align="left" alt="JS" width="38px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>&nbsp;
-<img align="left" alt="Typescript" width="38px" src="https://img.icons8.com/color/480/000000/typescript.png" />&nbsp;
-<img align="left" alt="Cpp" width="38px" src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" />&nbsp;
-<img align="left" alt="Csharp" width="38px" src="https://img.icons8.com/color/480/000000/c-sharp-logo.png" />&nbsp;
-<img align="left" alt="Python" width="38px" src="https://img.icons8.com/color/480/000000/python.png" />
+<!-- ============ WHAT I DO ============ -->
 
-<br />
+### 🧠 What I'm building
 
-<img align="left" alt="React" width="38px" src="https://img.icons8.com/color/480/000000/react-native.png" />&nbsp;
-<img align="left" alt="Redux" width="38px" src="https://img.icons8.com/color/480/000000/redux.png" />&nbsp;
-<img align="left" alt="Angular" width="38px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>&nbsp;
-<img align="left" alt="rxjs" width="38px" src="https://rxjs.dev/assets/images/favicons/favicon.ico">&nbsp;
-<img align="left" alt="webpack" width="38px" src="https://img.icons8.com/color/48/000000/webpack.png"/>&nbsp;
-<img align="left" alt="Jest" width="38px" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-duo-tal-revivo.png"/>
+```text
+🤖  AI Engineering      Prompt Studios · agent workflows · prompt chaining · structured outputs
+                        Semantic Kernel · MCP integrations · Redis-based memory · LLM orchestration
+🏗️  Backend & Arch      .NET / C# · REST APIs · CQRS · clean architecture · distributed systems
+☁️  Cloud & Infra       AWS (ECS, DynamoDB, Elasticache, SSM, CloudWatch) · Terraform · OpenTelemetry
+🎨  Frontend & Platform Angular · React · TypeScript · Nx monorepos · JSON-driven dynamic UIs
+```
 
-<br />
+<!-- ============ TECH ============ -->
 
-<img align="left" alt="MongoDb" width="38px" src="https://img.icons8.com/color/480/000000/mongodb.png" />&nbsp;
-<img align="left" alt="SqlServer" width="38px" src="https://img.icons8.com/color/480/000000/microsoft-sql-server.png" />&nbsp;
-<img align="left" alt="PostgreSql" width="38px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>&nbsp;
-<img align="left" alt="Mysql" width="38px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<br />
+### 🛠️ Toolbox
 
+<table>
+<tr>
+<td valign="top" width="50%">
 
-[instagram]: https://instagram.com/andyguz17
-[linkedin]: https://linkedin.com/in/andres-guzman-a63757139
-[facebook]: https://facebook.com/andres.guzman.37853734
+**AI & LLM**
+<br/><br/>
+<img src="https://img.shields.io/badge/Semantic_Kernel-6366F1?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agents-EC4899?style=flat-square&logo=dependabot&logoColor=white"/>
+
+**Backend**
+<br/><br/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+
+</td>
+<td valign="top" width="50%">
+
+**Cloud & Infra**
+<br/><br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"/>
+
+**Frontend & Data**
+<br/><br/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<!-- ============ EXPERIENCE ============ -->
+
+### 💼 Where I've made an impact
+
+**🏥 Helios Software — Senior Software Engineer** · *Remote · Enterprise healthcare & AI platforms*
+> Architected a **Prompt Studio** for testing and managing prompts in healthcare AI workflows. Built AI backends with **.NET + Semantic Kernel** (feature chaining, prompt orchestration, structured responses, MCP integrations) and owned **AWS + Terraform** infra (ECS, DynamoDB, VPC, load balancing, OpenTelemetry). CQRS + clean architecture throughout.
+
+**🚀 Jalasoft — Software / AI Engineer** · *Enterprise product modernization for a US client*
+> Evolved a traditional enterprise platform into **AI-enabled capabilities**: LLM orchestration, MCP tool servers, **Redis-based chat memory**, structured outputs and agent integrations. Owned technical decisions and coordinated a small engineering team, working extensively with **AWS + Terraform** and building **JSON-driven dynamic UIs**.
+
+**🧩 Earlier** · Altitude Solutions (desktop/web apps, Python) · roots in computer vision & mechatronics.
+
+<!-- ============ STATS ============ -->
+
+### 📊 By the numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=andyguz17&show_icons=true&hide_border=true&theme=tokyonight&icon_color=8B5CF6&title_color=8B5CF6" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyguz17&layout=compact&hide_border=true&theme=tokyonight&title_color=8B5CF6" alt="langs"/>
+
+</div>
+
+<!-- ============ ROOTS ============ -->
+
+### 🌱 Where it started
+
+Before the LLMs, there was **computer vision**. A few projects that shaped how I think:
+
+- 👁️ [**ComputerVision_Basics**](https://github.com/andyguz17/ComputerVision_Basics) — fundamentals of CV in Python
+- 🚗 [**Car_counter**](https://github.com/andyguz17/Car_counter) — vehicle detection & counting
+- 😀 [**emotions**](https://github.com/andyguz17/emotions) — emotion recognition with neural nets
+
+<!-- ============ EDU / LANG ============ -->
+
+### 🎓 Background
+
+**MSc Data Science** & **Mechatronics Engineering** — Universidad Católica Boliviana "San Pablo"
+🗣️ Spanish (native) · English (professional) · German (elementary)
+
+<!-- ============ FOOTER ============ -->
+
+<div align="center">
+<br/>
+
+*Actively exploring agent orchestration, task decomposition and AI-assisted engineering with Claude Code, Cursor & multi-agent workflows.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" alt="footer"/>
+
+</div>
