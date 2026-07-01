@@ -9,6 +9,11 @@
 
 <br/>
 
+### 🌐 [**➜ Visit my website — andyguz17.github.io**](https://andyguz17.github.io)
+
+<br/>
+
+<a href="https://andyguz17.github.io"><img src="https://img.shields.io/badge/Website-0F0C24?style=for-the-badge&logo=react&logoColor=37E0FF" alt="Website"/></a>
 <a href="https://linkedin.com/in/andres-guzman-a63757139"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:andyguz17@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://instagram.com/andyguz17"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
