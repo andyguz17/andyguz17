@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://linkedin.com/in/andres-guzman-a63757139"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:andres.guzman.q21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:andyguz17@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://instagram.com/andyguz17"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <img src="https://komarev.com/ghpvc/?username=andyguz17&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="views"/>
 
@@ -103,8 +103,9 @@ I like owning the whole path — from a raw prompt, to an orchestrated multi-ste
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=andyguz17&show_icons=true&hide_border=true&theme=tokyonight&icon_color=8B5CF6&title_color=8B5CF6" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyguz17&layout=compact&hide_border=true&theme=tokyonight&title_color=8B5CF6" alt="langs"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andyguz17&theme=tokyonight" alt="stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andyguz17&theme=tokyonight" alt="most used languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andyguz17&theme=tokyonight&utcOffset=-4" alt="productive time"/>
 
 </div>
 
